@@ -1,2 +1,3 @@
 # first.demo
-this is my first gihub repo
+This is my first gihub repository
+Author -Paras Bajaj
